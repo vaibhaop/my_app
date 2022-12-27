@@ -1,0 +1,21 @@
+{
+  "Flex": 301,
+  "TextBox": 259,
+  "Image": 84,
+  "Div": 7,
+  "Button": 7,
+  "Overlay": 3,
+  "Link": 6,
+  "Testimonial": 3,
+  "UnorderedList": 1,
+  "Icon": 1,
+  "Accordion": 3,
+  "Dropdown": 3,
+  "VerticalMenu": 1,
+  "Carousel": 3,
+  "Step": 1,
+  "Breadcrumb": 1,
+  "Cascader": 1,
+  "Modal": 1,
+  "Form": 1
+}
